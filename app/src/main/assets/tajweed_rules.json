@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ghunnah",
+    "nameArabic": "الغُنَّة",
+    "nameEnglish": "Ghunnah (Nasalization)",
+    "colorHex": "#E65100",
+    "description": "A musical nasal sound emitted from the nasal passage (Al-Khayshoom). Occurs on Noon Mushaddadah (نّ) and Meem Mushaddadah (مّ), held for 2 counts (Harakatan).",
+    "examples": ["إِنَّكَ لَمِنَ ٱلْمُرْسَلِينَ (Ayah 3)", "فَعَزَّزْنَا بِثَالِثٍ", "عَمَّ يَتَسَآءَلُونَ"],
+    "practiceTips": "Ensure the air flows strictly through the nose without tightening the vocal cords."
+  },
+  {
+    "id": "idgham",
+    "nameArabic": "الإدْغَام",
+    "nameEnglish": "Idgham (Merging)",
+    "colorHex": "#0288D1",
+    "description": "Merging of a vowelless letter (Noon Sakinah or Tanween) into the following letter from 'ي-ر-م-ل-و-ن'. Divided into Idgham with Ghunnah (ي-ن-م-و) and Idgham without Ghunnah (ر-ل).",
+    "examples": ["صِرَٰطٍ مُّسْتَقِيمٍ (Ayah 4 - Tanween into Meem)", "مِّن مَّرْقَدِنَا (Ayah 52)", "مِّن لَّدُنَّا (Idgham without Ghunnah)"],
+    "practiceTips": "Merge seamlessly into the second letter without pronouncing an independent Noon."
+  },
+  {
+    "id": "ikhfa",
+    "nameArabic": "الإخْفَاء الحَقِيقِي",
+    "nameEnglish": "Ikhfa (Concealment)",
+    "colorHex": "#8E24AA",
+    "description": "Pronouncing Noon Sakinah or Tanween in an intermediate state between Izhar (clarity) and Idgham (merging), retaining a 2-count nasal Ghunnah before the 15 Ikhfa letters (ت ث ج د ذ ز س ش ص ض ط ظ ف ق ك).",
+    "examples": ["لِتُنذِرَ (Ayah 6 - Noon before Dhal)", "مِن قَبْلِكُمْ (Ayah 31)", "أَنتُمْ مَّحْضَرُونَ"],
+    "practiceTips": "Place your tongue near the articulation point of the next letter while vibrating the nasal cavity."
+  },
+  {
+    "id": "iqlab",
+    "nameArabic": "الإقْلاب",
+    "nameEnglish": "Iqlab (Conversion)",
+    "colorHex": "#D81B60",
+    "description": "Converting Noon Sakinah or Tanween into a concealed Meem with Ghunnah when followed by the letter Baa (ب). Indicated in the script by a miniature Meem (مـۭ).",
+    "examples": ["يَنۢبَغِى لَهَا (Ayah 40)", "مِنۢ بَعْدِ مَوْتِهَا", "عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ"],
+    "practiceTips": "Bring the lips together gently without pressing hard, sounding a soft Meem with nasal resonance."
+  },
+  {
+    "id": "izhar",
+    "nameArabic": "الإظْهَار الحَلْقِي",
+    "nameEnglish": "Izhar (Clear Pronunciation)",
+    "colorHex": "#00796B",
+    "description": "Pronouncing Noon Sakinah or Tanween clearly from its origin without extra prolongation or nasalization before the 6 throat letters (ء هـ ع ح غ خ).",
+    "examples": ["عَنْ عِبَادَةِ ٱلرَّحْمَٰنِ", "مِنْ حَكِيمٍ", "أَنْعَمْتَ"],
+    "practiceTips": "Pronounce the Noon clearly and decisively without lingering."
+  },
+  {
+    "id": "qalqalah",
+    "nameArabic": "القَلْقَلَة",
+    "nameEnglish": "Qalqalah (Echo / Bouncing Sound)",
+    "colorHex": "#2E7D32",
+    "description": "A bouncing or reverberating echo sound produced when pronouncing one of the letters of 'قُطْبُ جَدٍ' (ق ط ب ج د) when Sakin (bearing a Sukoon or when stopping on it).",
+    "examples": ["لَقَدْ حَقَّ ٱلْقَوْلُ (Ayah 7 - Daal Sakinah)", "تَقْدِيرُ ٱلْعَزِيزِ (Ayah 38 - Qaf Sakinah)", "مُقْمَحُونَ (Ayah 8)"],
+    "practiceTips": "Release the articulation point with a sharp, crisp bounce without turning it into a Fathah or Kasrah."
+  },
+  {
+    "id": "madd",
+    "nameArabic": "المَدّ",
+    "nameEnglish": "Madd (Vowel Prolongation)",
+    "colorHex": "#C62828",
+    "description": "Prolongation of the voice through the Madd letters (Alif preceded by Fatha, Waw preceded by Damma, Ya preceded by Kasra). Range: Asli/Tabi'ee (2 counts) to Fara'ee (Mutasil, Munfasil, Lazim: 4, 5, or 6 counts).",
+    "examples": ["يسٓ (Ayah 1 - Madd Lazim Harfi 6 counts)", "ءَابَآؤُهُمْ (Ayah 6 - Madd Muttasil 4-5 counts)", "وَسَوَآءٌ عَلَيْهِمْ (Ayah 10)"],
+    "practiceTips": "Keep timing consistent: measure counts evenly like clapping or tapping your fingers rhythmically."
+  }
+]

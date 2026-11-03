@@ -1,0 +1,6 @@
+{
+  "name": "Surah An-Naba",
+  "description": "Complete Surah An-Naba & Para 30 Quran learning, royal purple theme, audio recitation, Tajweed, Arabic grammar, Hifz, and AI companion app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

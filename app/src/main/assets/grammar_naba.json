@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "titleEn": "Interrogative Particles & Prepositions: عَمَّ (From What?)",
+    "titleUr": "حروف استفہام اور حروفِ جر کا امتزاج (عَمَّ)",
+    "level": "Beginner",
+    "description": "How the question 'About what are they asking?' is constructed grammatically in the opening of Juz 30.",
+    "content": "The famous opening word 'عَمَّ' is a combination of two words:\n1. The preposition 'عَنْ' (An - about/regarding).\n2. The interrogative pronoun 'مَا' (Maa - what?).\nWhen 'مَا' is preceded by a preposition (such as عن، في، إلى، بـ), its final Alif is omitted according to Classical Arabic rules: عَنْ + مَا = عَمَّ, فِي + مَا = فِيمَ, إِلَى + مَا = إِلَامَ, بـ + مَا = بِمَ. This grammatical contraction signals urgent inquiry.",
+    "surahExamples": [
+      {
+        "arabic": "عَمَّ يَتَسَآءَلُونَ",
+        "breakdown": "عَنْ (حرف جر) + مَا (اسم استفهام حذفت ألفه) + يَتَسَآءَلُونَ (فعل مضارع مرفوع بثبوت النون)"
+      },
+      {
+        "arabic": "عَنِ ٱلنَّبَإِ ٱلْعَظِيمِ",
+        "breakdown": "عَنِ (حرف جر حرك بالكسر لمنع التقاء الساكنين) + ٱلنَّبَإِ (اسم مجرور) + ٱلْعَظِيمِ (نعت مجرور)"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "titleEn": "Dual Objects with 'Ja'ala' (جَعَلَ): Earth & Mountains",
+    "titleUr": "افعال القلوب والتحويل: جعل کے دو مفعول",
+    "level": "Intermediate",
+    "description": "How Allah describes transforming the cosmos for mankind using verbs that take two accusative objects (مفعولين).",
+    "content": "The verb 'جَعَلَ' (Ja'ala) in Ayahs 6-11 is a transformative verb (فعل تحويل) requiring two objects in the accusative state (منصوب بالفتحة):\n• أَلَمْ نَجْعَلِ ٱلْأَرْضَ (Object 1: The Earth) مِهَٰدًا (Object 2: A resting bed).\n• وَجَعَلْنَا نَوْمَكُمْ (Object 1: Your sleep) سُبَاتًا (Object 2: A rest/cessation).\n• وَجَعَلْنَا ٱلَّيْلَ (Object 1: The night) لِبَاسًا (Object 2: A garment).\nNotice how every cosmic blessing is balanced with perfect syntactic rhythm.",
+    "surahExamples": [
+      {
+        "arabic": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ مِهَٰدًا",
+        "breakdown": "نَجْعَلِ (فعل مضارع مجزوم بلم) + ٱلْأَرْضَ (مفعول أول منصوب) + مِهَٰدًا (مفعول ثان منصوب)"
+      },
+      {
+        "arabic": "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا",
+        "breakdown": "جَعَلْنَا (فعل وفاعل) + نَوْمَكُمْ (مفعول أول) + سُبَاتًا (مفعول ثان منصوب)"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "titleEn": "Intensifying Verb Patterns: تفعيل (كِذَّابًا) & مبالغة (وَهَّاجًا)",
+    "titleUr": "صرفی اوزان: مبالغہ اور مصدرِ تفعيل",
+    "level": "Intermediate",
+    "description": "The striking, rhythmic rhyming sounds of Surah An-Naba derived from Form II verbal nouns and exaggerated adjectives.",
+    "content": "Surah An-Naba is famous for its thunderous, percussive rhyme ending in Alif Tanween (-an):\n1. وَهَّاجًا (Wahhaaj): Pattern 'فَعَّال' (Fa''aal), representing extreme heat, light, and blazing radiance (the Sun).\n2. ثَجَّاجًا (Thajjaaj): Pattern 'فَعَّال', describing torrential, cascading downpours of rain.\n3. كِذَّابًا (Kidhdhaab): Alternative verbal noun of كَذَّبَ (Form II), denoting fierce, vehement rejection and denial of the truth.",
+    "surahExamples": [
+      {
+        "arabic": "وَجَعَلْنَا سِرَاجًا وَهَّاجًا",
+        "breakdown": "سِرَاجًا (مفعول أول) + وَهَّاجًا (نعت صيغة مبالغة على وزن فَعَّال)"
+      },
+      {
+        "arabic": "وَأَنزَلْنَا مِنَ ٱلْمُعْصِرَٰتِ مَآءً ثَجَّاجًا",
+        "breakdown": "مَآءً (مفعول به) + ثَجَّاجًا (نعت صيغة مبالغة لمنصبّ بغزارة)"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "titleEn": "The Day of Reckoning: Inna & Its Predicates",
+    "titleUr": "حروفِ مشبہ بالفعل اور اس کی خبر (إِنَّ يَوْمَ ٱلْفَصْلِ كَانَ مِيقَٰتًا)",
+    "level": "Advanced",
+    "description": "Constructing certainty and unshakeable truth with Inna and compound verbal predicates.",
+    "content": "Ayah 17 introduces the pivotal transition of Surah An-Naba:\n• 'إِنَّ' (Inna): Particle of certainty that puts its subject into the accusative: 'يَوْمَ' (Yawma - Mansoob).\n• 'ٱلْفَصْلِ' (Al-Fasl): Genitive Mudhaaf Ilayhi (Majroor).\n• The predicate of Inna is the entire sentence: 'كَانَ مِيقَٰتًا' (Kaana Meeqatan) — an appointed, predetermined moment that cannot be delayed.",
+    "surahExamples": [
+      {
+        "arabic": "إِنَّ يَوْمَ ٱلْفَصْلِ كَانَ مِيقَٰتًا",
+        "breakdown": "إِنَّ (حرف توكيد ونصب) + يَوْمَ (اسم إن منصوب) + ٱلْفَصْلِ (مضاف إليه) + جملة كان ميقاتاً (خبر إن في محل رفع)"
+      }
+    ]
+  }
+]
